@@ -1,9 +1,29 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Body:</strong>
-  <%= @quote.body %>
-</p>
 
+<div class="container quote-body">
+	<div class="row">
+	<div class="span8 quote-inner">
+	  <div class="quote-text"><%= @quote.body %></div>
+	 </div>
+
+
+<div class="span8">
+<div class="actions">
+	<b>8 Likes</b>
+	<b>40 Shares</b>
+</div>
+
+<div class="author">
+	<div class="avatar"></div>
+	<div class="user-name">Han Solo</div>	
+</div>
+
+	</div>
+</div>
+</div>
+
+<div class="notsure">
 <%= link_to 'Edit', edit_quote_path(@quote) %> |
 <%= link_to 'Back', quotes_path %>
+</div>

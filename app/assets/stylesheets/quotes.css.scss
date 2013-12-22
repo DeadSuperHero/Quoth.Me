@@ -1,3 +1,59 @@
 // Place all the styles related to the Quotes controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.quote-body {
+	padding: 4em;
+	text-align: center;
+}
+
+
+.quote-inner {
+	
+}
+
+body {
+	background-image: url(http://latino-review.com/wp-content/uploads/2013/02/Episode_4_Han_Solo_2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: -2em;
+}
+
+.actions {
+	text-shadow: 0.1em 0.1em 0 white;
+	float: left;
+}
+
+.quote-text {
+	color: white;
+	text-shadow: 0.1em 0.1em 0.3em black;
+	font-weight: lighter;
+	font-size: 4em;
+}
+
+.avatar {
+	background-image: url(http://3.bp.blogspot.com/-ZQpjRKB-yBE/T6Q4YEw96sI/AAAAAAAACN4/deTrqcQeA6w/s1600/han_solo_blaster.jpg);
+	height: 2em;
+	width: 2em;
+	border-radius: 4em;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+	vertical-align: middle;
+	background-position: -0.1em 0em;
+	background-size: contain;
+}
+
+.author {
+float: right;
+font-size: 1.5em;
+text-align: right;
+display: inline-block;
+}
+
+.user-name {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: auto;
+	color: white;
+}
