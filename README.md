@@ -1,4 +1,7 @@
 ## Quoth.Me
+
+![Han](https://joindiaspora.s3.amazonaws.com/uploads/images/scaled_full_c2660a327ee22403e7c3.png)
+
 Quoth.Me is a social platform designed around personal quotes, and that's it.  
 The goal is to create an over-the-top app that focuses on doing one core feature and doing it well.
 
