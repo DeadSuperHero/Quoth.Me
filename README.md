@@ -2,7 +2,9 @@
 Quoth.Me is a social platform designed around personal quotes, and that's it.  
 The goal is to create an over-the-top app that focuses on doing one core feature and doing it well.
 
-This app is built with Rails 4 and PostGres. 
+This app is built with Rails 4 and PostGres.
+
+Note: This app is currently a non-functional prototype. Once the styling is finalized, work will go into making the desired features below a working thing.
 
 ## Some desired features:
 
@@ -12,7 +14,7 @@ This app is built with Rails 4 and PostGres.
 * User profiles
 * Following and stream
 * Thumbnails via [Libravatar](https://www.libravatar.org/)
-* The ability to share quotes to Facebook, Twitter, and Tumblr
+* The ability to share quotes to Facebook, Twitter, and Tumblr. Possibly also Friendica, Pump.io, Tent, or Diaspora. We'll see.
 * Like and Bookmark other people's quotes
 * quote tags for topics
 * search quotes by author or topic
