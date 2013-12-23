@@ -34,9 +34,19 @@ background-color: transparent;
 border: none;
 }
 
+.branding {
+	display: inline-block;
+}
+
+#signup {
+	position: relative;
+	top: 0.3em;
+	right: 0.3em;
+}
+
 .branding a {
-	color: white;
-	text-shadow: 0.08em 0.08em 0em black;
+	color: black;
+	text-shadow: 0.07em 0.07em 0em white;
 	font-weight: lighter;
 	margin-left: 0.4em;
 	display: inline-block;
