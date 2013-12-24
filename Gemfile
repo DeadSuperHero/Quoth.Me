@@ -16,6 +16,13 @@ gem 'bootstrap-sass', '~> 3.0.3.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
+# Auth
+gem 'omniauth'
+
+# Tent Integration
+gem 'omniauth-tent'
+gem "tent-client"
+
 # Image Asset handling
 gem 'carrierwave'
 gem 'rmagick'
